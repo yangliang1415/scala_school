@@ -1,4 +1,9 @@
 /*
+Scala School First Class
+Study Some Basic
+*/
+
+/*
 class Calculator {
     val brand: String = "HP"
     def add(m: Int, n: Int): Int = m + n
