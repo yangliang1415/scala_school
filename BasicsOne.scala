@@ -1,6 +1,6 @@
 /*
 Scala School First Class
-Study Some Basics
+Study Some BasicsOne
 */
 
 /*
@@ -66,7 +66,7 @@ class C {
 }
     
 
-object Basics {
+object BasicsOne {
     def capitalizeAll(args: String*) = {
         args.map { arg =>
             arg.capitalize
